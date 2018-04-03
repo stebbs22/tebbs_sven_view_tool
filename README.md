@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+TebbsSvenViewTool::Renderer.copyright "Steven Tebbs", "All rights reserved"
+```
 
 ## Development
 
